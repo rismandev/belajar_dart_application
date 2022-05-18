@@ -12,7 +12,7 @@ dependencies:
   belajar_dart_library:
     git:
       url: https://github.com/rismandev/belajar_dart_library.git
-      ref: 1.0.0
+      ref: 1.1.0
 
 dev_dependencies:
   lints: ^1.0.0
